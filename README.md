@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hey, I’m Ahmad 👋  
+**`👨‍💻 Software Developer | Content Creator | Lifelong Learner `**
 
-<!--
-**ahmadkhalidy/ahmadkhalidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I create things and talk about them in public.
+- I enjoy building useful things with code and sharing what I learn along the way.  
+- I’m interested in software development, problem solving, and creating tools that make work easier and cleaner.
 
-Here are some ideas to get you started:
+> #### 🧠 Fun Fact
+I wasn’t born from code, but I’m ready to build solutions with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠️ Languages & Tools I work with:
+![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,firebase,graphql,php,wordpress,gcp,aws)
+
+### 🚀 What I’m Working On
+- Building personal and experimental projects  
+- Improving problem‑solving skills with real-world cases  
+- Writing cleaner, more maintainable code  
+
+### 🌱 Currently Learning
+- Better system design
+- Better system thinking
+- Writing scalable JavaScript applications
+- Turning ideas into useful products
+
+### 📫 Let’s Connect
+Feel free to explore my repositories or reach out if you want to collaborate or exchange ideas.
